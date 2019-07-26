@@ -6,7 +6,7 @@ module.exports = {
       host: 'localhost',
       database: 'trainning',
       user:     'root',
-      password: ''
+      password: 'lephuochoai'
     },
     pool: {
       min: 2,

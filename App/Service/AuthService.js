@@ -66,6 +66,7 @@ class AuthService {
                 result: {
                     id: userInserted.id,
                     username: userInserted.username,
+                    email: userInserted.email,
                     name: userInserted.name,
                     token: token
                 }
@@ -132,6 +133,7 @@ class AuthService {
                 result: {
                     id: user.id,
                     username: user.username,
+                    email: user.email,
                     name: user.name,
                     token: token
                 }
