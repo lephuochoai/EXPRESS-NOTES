@@ -18,7 +18,7 @@
     "knex": "^0.18.4",
     "mysql": "^2.17.1",
     "objection": "^1.6.9",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "dotenv": "^8.0.0",
